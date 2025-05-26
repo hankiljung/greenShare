@@ -71,6 +71,11 @@
 
 ![image](https://github.com/user-attachments/assets/62e8b365-30c0-4b52-97e4-944e69fdc5c6)
 
+
+<h3> 프로젝트 결과</h3>
+<p>관리자에게는 작물 재배 환경과 적정환경 비교 & 농장 자동화 제공 </p>
+<p>사용자에게는 식물커뮤니티를 제공하였습니다. </p>
+
 ![image](https://github.com/user-attachments/assets/393ab9ea-54aa-48d8-ba17-aab68778112f)
 
 ![image](https://github.com/user-attachments/assets/c6c40d3c-bd87-46b6-8601-acf65ef6ec9f)
