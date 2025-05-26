@@ -12,24 +12,28 @@
   
 ![image](https://github.com/user-attachments/assets/e48e0673-be8c-4e07-b619-cc5a07013dda)
 
-![image](https://github.com/user-attachments/assets/0c228050-c7bc-414f-b52b-fe06f47a8d53)
+![image](https://github.com/user-attachments/assets/47b79f18-124e-4ec8-b5a8-9959cff11293)
 
 
 
-![image](https://github.com/user-attachments/assets/54e38a22-4cef-47b3-b26f-ad69bd754d80)
+<div align="center">
+  <details>
+    <summary>
+파이썬 코드 전체
+    </summary>
+
+![image](https://github.com/user-attachments/assets/3a6a78c8-dd51-4a97-b2cc-b8de7e5f0b33)
+
+
+  </details>
+</div>
+
+![image](https://github.com/user-attachments/assets/7251adcb-5275-495e-82d2-1e0474d44de2)
+
 
 
 
 ![image](https://github.com/user-attachments/assets/a33e8591-4bde-4946-951a-b5ea2e307c54)
-
-
-
-
-
-
-
-
-
 
 
 </details>
