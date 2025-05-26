@@ -8,7 +8,9 @@
 <h3>프로젝트 개요</h3>
 <p>라즈베리파이, 파이썬을 이용해 환경을 측정하는 프로젝트 개요는 다음과 같습니다. 관리자는 작물 재배 환경과 적정환경 비교 & 농장 자동화 제공이 IoT 기기를 이용한 최종 목표입니다.</p>
 
-![image](https://github.com/user-attachments/assets/b6c245cb-d9db-444e-9268-400e87562370)
+![image](https://github.com/user-attachments/assets/ac20b316-bb9c-431b-8e26-6de1fc49271e)
+
+
   
 ![image](https://github.com/user-attachments/assets/e48e0673-be8c-4e07-b619-cc5a07013dda)
 
@@ -50,9 +52,22 @@
 ![image](https://github.com/user-attachments/assets/fd8255b1-5256-46bb-8793-cd395207c4b9)
 
 
-
 ![image](https://github.com/user-attachments/assets/5059b8c0-ffd9-47b7-a736-10ad6d343a52)
-  
+
+<h3>프로젝트 결과</h3>
+
+![image](https://github.com/user-attachments/assets/3f2e212c-52f7-49b6-9419-82eb1c3cc4a4)
+
+![image](https://github.com/user-attachments/assets/304a8053-cb66-4384-9706-a971f78160db)
+
+![image](https://github.com/user-attachments/assets/5c4b35fd-f882-4ee4-942c-4ce70e563515)
+
+![image](https://github.com/user-attachments/assets/bd12926f-eb9d-45e7-ad0e-5670e7c5336b)
+
+![image](https://github.com/user-attachments/assets/43c5cda5-4546-46ca-ac60-767c936cfb03)
+
+![image](https://github.com/user-attachments/assets/07429b26-a473-4635-8847-61e72aad589d)
+
 </details>
 
 <details>
