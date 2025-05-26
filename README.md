@@ -111,6 +111,16 @@
 
 ![image](https://github.com/user-attachments/assets/be1d525b-1765-48f5-856a-cea9d6fdb9ec)
 
+<h3>앱 실행 결과</h3>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/6c6523e5-3622-4b3d-b600-5b0b71972c6d" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/6c6523e5-3622-4b3d-b600-5b0b71972c6d" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/6c6523e5-3622-4b3d-b600-5b0b71972c6d" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/6c6523e5-3622-4b3d-b600-5b0b71972c6d" width="100%"></td>
+  </tr>
+</table>
 
 
 
