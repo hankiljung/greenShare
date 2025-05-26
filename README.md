@@ -21,6 +21,11 @@
 </summary>
 
 <h3>프로젝트 개요</h3>
+<p>관리자는 작물 재배 환경과 적정환경 비교 & 농장 자동화 제공
+일반 사용자는 노하우를 공유하고 소통을 통해 작물을 키울때 드는 불편함 해소</p>
+
+![image](https://github.com/user-attachments/assets/ae921e43-adb4-40d2-b450-bd3990b55375)
+
 
 ![Image](https://github.com/user-attachments/assets/2f2eb122-e754-4101-9594-07f90f3ad691)
 
