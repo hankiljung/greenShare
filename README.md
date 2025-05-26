@@ -16,10 +16,11 @@
 
 
 
-![image](https://github.com/user-attachments/assets/9ae9cec4-6f1b-4670-897e-81292b93a427)
+![image](https://github.com/user-attachments/assets/54e38a22-4cef-47b3-b26f-ad69bd754d80)
 
-![image](https://github.com/user-attachments/assets/1a58cb58-3a91-4a25-adfb-cb465391b956)
 
+
+![image](https://github.com/user-attachments/assets/a33e8591-4bde-4946-951a-b5ea2e307c54)
 
 
 
@@ -38,6 +39,7 @@
   React 기반 스마트팜 IoT 기기 연동 및 식물 커뮤니티 웹 구축
 </summary>
    
+![image](https://github.com/user-attachments/assets/1a58cb58-3a91-4a25-adfb-cb465391b956)
   
 </details>
 
