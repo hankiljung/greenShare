@@ -4,10 +4,16 @@
 <summary>
   라즈베리파이, 파이썬 기반 스마트팜 IoT 기기 개발 및 센서 자동제어 알고리즘
 </summary>
+  
+![image](https://github.com/user-attachments/assets/c1b68950-8fb9-417f-958d-50ccf967270a)
 
-![image](https://github.com/user-attachments/assets/634bf03c-650a-41b9-8128-08a269bd0623)
 
-![image](https://github.com/user-attachments/assets/0ae111e3-6e44-4935-9858-86625a77ba2f)
+![image](https://github.com/user-attachments/assets/5d9434f4-204d-4032-8325-987b0fb6ae56)
+
+
+![image](https://github.com/user-attachments/assets/a0a6a09f-2299-45ba-aa3f-0a1205b51ee4)
+
+
 
 
 
