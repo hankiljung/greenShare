@@ -19,7 +19,7 @@
 <summary>
   React 기반 스마트팜 IoT 기기 연동 및 식물 커뮤니티 앱 구축
 </summary>
-<br>
+<br/>
 ![Image](https://github.com/user-attachments/assets/2f2eb122-e754-4101-9594-07f90f3ad691)
 
 
