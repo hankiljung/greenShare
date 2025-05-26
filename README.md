@@ -29,3 +29,33 @@
 
 
 </details>
+
+function convertBlockquotesToCallouts() {
+    const blockquotes = document.querySelectorAll('blockquote[data-ke-style="style1"]');
+    const CALLOUT_CLASSES = {
+        '[!CAUTION]': 'markdown-callout-caution',
+        '[!WARNING]': 'markdown-callout-warning',
+        '[!NOTE]': 'markdown-callout-note',
+        '[!TIP]': 'markdown-callout-tip',
+        '[!IMPORTANT]': 'markdown-callout-important'
+    };
+    const CALLOUT_TITLES = {
+        '[!CAUTION]': '⛔ 경고',
+        '[!WARNING]': '⚠️ 주의',
+        '[!NOTE]': '📝 참고',
+        '[!TIP]': '💡 팁',
+        '[!IMPORTANT]': '❗ 중요'
+    };
+    blockquotes.forEach(blockquote => {
+        const calloutParagraph = blockquote.children[1]; // 티스토리 자동 생성 문단 무시
+        if (!calloutParagraph) return;
+
+        const calloutTitle = calloutParagraph.textContent.trim();
+        const calloutClass = CALLOUT_CLASSES[calloutTitle];
+        if (!calloutClass) return;
+
+        blockquote.classList.add('markdown-callout', calloutClass);
+        calloutParagraph.classList.add('callout-title');
+        calloutParagraph.innerHTML = `${CALLOUT_TITLES[calloutTitle]}`;
+    })
+} 
