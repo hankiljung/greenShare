@@ -18,7 +18,7 @@
 <summary>
   React 기반 스마트팜 IoT 기기 연동 및 식물 커뮤니티 앱 구축
 </summary>
-   ![Image]()<img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png](https://github.com/user-attachments/assets/130f433b-03ef-4500-bff8-7ea641364ff1)" alt="Eyes"  /> 
+   ![Image]()<img src="https://github.com/user-attachments/assets/130f433b-03ef-4500-bff8-7ea641364ff1)" alt="Eyes"  /> 
 
 </details>
 
