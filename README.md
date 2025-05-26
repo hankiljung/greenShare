@@ -64,6 +64,13 @@
 
 ![image](https://github.com/user-attachments/assets/2a7ac5cf-b8ec-414e-90a8-480186770d6f)
 
+<h3> 디자인 개요</h3>
+<p>사용자가 한눈에 보기 쉽게 앱을 디자인 하였습니다.</p>
+
+![image](https://github.com/user-attachments/assets/663989b3-9bcf-45be-9372-5b62b17631c3)
+
+![image](https://github.com/user-attachments/assets/62e8b365-30c0-4b52-97e4-944e69fdc5c6)
+
 
 
 
