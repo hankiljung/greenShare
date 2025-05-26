@@ -1,5 +1,8 @@
 ## greenShare
 
+<a href="mailto:메일주소"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:메일주소"/></a>
+
+
 <details>
 <summary>
   라즈베리파이, 파이썬 기반 스마트팜 IoT 기기 개발 및 센서 자동제어 알고리즘
